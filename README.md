@@ -1,1 +1,2 @@
 # Data-Science-Task-3
+Built a Decision Tree Classifier using the Bank Marketing dataset (UCI Machine Learning Repository) to predict whether a customer would purchase a product/service based on demographic and behavioral features. Performed data preprocessing, handled missing values, encoded categorical variables, and tuned hyperparameters for optimal model performance. Evaluated results using accuracy, confusion matrix, and analyzed feature importance to identify key factors influencing customer decisions.
